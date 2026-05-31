@@ -1,9 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Vigneshwaran%20A&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=ECE%20Graduate%20%7C%20Java%20%26%20SQL%20Developer%20%7C%20IoT%20%26%20Networks%20Enthusiast&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=ECE+Graduate+%7C+Java+%26+SQL+Developer;IEEE+Published+Researcher+%F0%9F%93%84;Patent+Holder+%7C+Wildlife+Tech+Innovator+%F0%9F%90%A2" alt="Typing SVG" />
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Vigneshwaran+%F0%9F%91%8B;ECE+Graduate+%7C+Java+%26+SQL+Developer;IEEE+Published+Researcher+%F0%9F%93%84;Patent+Holder+%7C+Wildlife+Tech+Innovator+%F0%9F%90%A2)](https://git.io/typing-svg)
+# 👋 Hi, I'm Vigneshwaran A
 
+### ECE Graduate · Java & SQL · IEEE Researcher · Patent Applicant
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshwaran-a90214125a)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Vignesh-1804)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vignesh28932a@gmail.com)
+[![Location](https://img.shields.io/badge/Karur,%20India-FF5733?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/Vignesh-1804)
 ![Profile Views](https://komarev.com/ghpvc/?username=Vignesh-1804&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
@@ -74,7 +82,7 @@ public class Vigneshwaran {
 <div align="center">
 
 [![Vignesh-1804's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vignesh-1804&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)](https://github.com/Vignesh-1804)
-&nbsp;
+&nbsp;&nbsp;
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-1804&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/Vignesh-1804)
 
 </div>
@@ -101,11 +109,22 @@ public class Vigneshwaran {
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Vignesh-1804&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Vignesh-1804)
+| 🥇 | Achievement | Details |
+|---|---|---|
+| 🎖️ | **Mackathon Participant** | Participated and managed documentation at MKCE Hackathon |
+| 📄 | **IEEE Publication — GLOF Early Warning System** | IEEE Conference, 2024 |
+| 📄 | **IEEE Publication — Turtle Monitoring System** | IEEE Conference, 2026 |
+| 🔒 | **Patent — Smart Care Mobility Chair** | College-level to International Patent |
+| 🔒 | **Patent — Turtle Hatching System** | Applied for International Patent |
+| 📊 | **NPTEL — Industry 4.0** | Score: 82% |
+| 🌐 | **Cisco CCNA Certified** | Switching, Routing and Wireless Essentials |
+| 🌐 | **Cisco — Networking Devices and Initial Configuration** | Cisco Networking Academy |
+| 🤖 | **Automation Testing with Selenium Java** | GUVI Certified |
+| 🌐 | **Introduction to IoT** | IIT Kharagpur (NPTEL) |
 
 </div>
 
@@ -163,27 +182,6 @@ public class Vigneshwaran {
 
 ---
 
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|---|---|---|
-| 🎖️ | **Mackathon Participant** | Participated and managed documentation at MKCE Hackathon |
-| 📄 | **IEEE Publication — GLOF Early Warning System** | IEEE Conference, 2024 |
-| 📄 | **IEEE Publication — Turtle Monitoring System** | IEEE Conference, 2026 |
-| 🔒 | **Patent — Smart Care Mobility Chair** | College-level to International Patent |
-| 🔒 | **Patent — Turtle Hatching System** | Applied for International Patent |
-| 📊 | **NPTEL — Industry 4.0** | Score: 82% |
-| 🌐 | **Cisco CCNA Certified** | Switching, Routing and Wireless Essentials |
-| 🌐 | **Cisco — Networking Devices and Initial Configuration** | Cisco Networking Academy |
-| 🤖 | **Automation Testing with Selenium Java** | GUVI Certified |
-| 🌐 | **Introduction to IoT** | IIT Kharagpur (NPTEL) |
-
-</div>
-
----
-
 ## 🎓 Education
 
 <div align="center">
@@ -211,22 +209,12 @@ APIs        -->  REST API Design, JSON, HTTP Methods
 
 ---
 
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshwaran-a90214125a)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Vignesh-1804)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vignesh28932a@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 
 *"Build things that matter. Document everything. Never stop learning."*
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
+![Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
+</div>
