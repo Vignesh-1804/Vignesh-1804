@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Vigneshwaran+%F0%9F%91%8B;ECE+Graduate+%7C+Java+%26+SQL+Developer;IEEE+Published+Researcher+%F0%9F%93%84;Patent+Holder+%7C+Wildlife+Tech+Innovator+%F0%9F%90%A2)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Vignesh-1804&color=70a5fd&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
@@ -71,12 +73,9 @@ public class Vigneshwaran {
 
 <div align="center">
 
-<a href="https://github.com/Vignesh-1804">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vignesh-1804&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
-</a>
-<a href="https://github.com/Vignesh-1804">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-1804&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
-</a>
+[![Vignesh-1804's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vignesh-1804&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)](https://github.com/Vignesh-1804)
+&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-1804&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/Vignesh-1804)
 
 </div>
 
@@ -131,7 +130,7 @@ public class Vigneshwaran {
 
 > ![Hardware](https://img.shields.io/badge/Hardware-Innovation-blueviolet?style=flat-square) ![Patent](https://img.shields.io/badge/Patent%20Applied-brightgreen?style=flat-square)
 
-- ♿ Innovated an assistive mobility chair concept aimed at improving accessibility and independence for differently-abled individuals
+- ♿ Innovated an assistive mobility chair concept aimed at improving accessibility for differently-abled individuals
 - 🏫 Selected for a patent at the college level — currently progressing toward an **international/foreign patent application**
 - 🔬 Combines hardware design with smart assistive technology concepts
 
@@ -143,7 +142,7 @@ public class Vigneshwaran {
 > ![Research](https://img.shields.io/badge/Disaster%20Mgmt-Research-red?style=flat-square) ![IEEE](https://img.shields.io/badge/IEEE%20Published-00629B?style=flat-square&logo=ieee&logoColor=white)
 
 - 🌊 Researched Glacial Lake Outburst Floods (GLOF) and developed predictive monitoring approaches for assessing risk levels
-- ⚠️ Designed early warning system strategies to support effective disaster management and reduce loss of life
+- ⚠️ Designed early warning system strategies to support effective disaster management
 - 📄 **Published in IEEE Conference 2024**
 
 </details>
@@ -156,9 +155,9 @@ public class Vigneshwaran {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [🐢 Hope in the Sand](https://github.com/Vignesh-1804) | IoT, Sensors, Data Analysis | IEEE Published 2026 · Patent Applied · Wildlife Conservation |
-| [♿ Smart Care Mobility Chair](https://github.com/Vignesh-1804) | Hardware, Embedded Systems | College Patent · International Patent Pending |
-| [🌊 GLOF Early Warning System](https://github.com/Vignesh-1804) | Data Analysis, Predictive Modeling | IEEE Published 2024 · Disaster Management |
+| 🐢 Hope in the Sand | IoT, Sensors, Data Analysis | IEEE Published 2026 · Patent Applied · Wildlife Conservation |
+| ♿ Smart Care Mobility Chair | Hardware, Embedded Systems | College Patent · International Patent Pending |
+| 🌊 GLOF Early Warning System | Data Analysis, Predictive Modeling | IEEE Published 2024 · Disaster Management |
 
 </div>
 
@@ -173,8 +172,8 @@ public class Vigneshwaran {
 | 🎖️ | **Mackathon Participant** | Participated and managed documentation at MKCE Hackathon |
 | 📄 | **IEEE Publication — GLOF Early Warning System** | IEEE Conference, 2024 |
 | 📄 | **IEEE Publication — Turtle Monitoring System** | IEEE Conference, 2026 |
-| 🔒 | **Patent Application — Smart Care Mobility Chair** | College-level to International Patent |
-| 🔒 | **Patent Application — Turtle Hatching System** | Applied for International Patent |
+| 🔒 | **Patent — Smart Care Mobility Chair** | College-level to International Patent |
+| 🔒 | **Patent — Turtle Hatching System** | Applied for International Patent |
 | 📊 | **NPTEL — Industry 4.0** | Score: 82% |
 | 🌐 | **Cisco CCNA Certified** | Switching, Routing and Wireless Essentials |
 | 🌐 | **Cisco — Networking Devices and Initial Configuration** | Cisco Networking Academy |
@@ -219,8 +218,6 @@ APIs        -->  REST API Design, JSON, HTTP Methods
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshwaran-a90214125a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Vignesh-1804)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vignesh28932a@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vignesh-1804&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
