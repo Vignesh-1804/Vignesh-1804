@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshwaran-a90214125a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Vignesh-1804)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vignesh28932a@gmail.com)
-[![Location](https://img.shields.io/badge/Karur,%20India-FF5733?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/Vignesh-1804)
+[![Location](https://img.shields.io/badge/Karur%2C%20India-FF5733?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/Vignesh-1804)
 ![Profile Views](https://komarev.com/ghpvc/?username=Vignesh-1804&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
@@ -83,13 +83,15 @@ public class Vigneshwaran {
 
 | Metric | Value |
 |---|---|
-| 🏢 **Public Repos** | Check at [github.com/Vignesh-1804](https://github.com/Vignesh-1804?tab=repositories) |
-| ⭐ **Stars Earned** | Check at [github.com/Vignesh-1804](https://github.com/Vignesh-1804) |
 | 🔥 **Total Contributions** | 18+ (Apr 2025 – Present) |
+| 🔁 **Longest Streak** | 3 days (Apr 12 – Apr 14) |
 | 💻 **Primary Language** | Java |
+| 📦 **Repositories** | [View all repos](https://github.com/Vignesh-1804?tab=repositories) |
 | 🌐 **Profile Since** | 2025 |
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-1804&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/Vignesh-1804)
+![Java](https://img.shields.io/badge/Java-Primary%20Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Secondary%20Language-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions-18%2B-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -115,7 +117,7 @@ public class Vigneshwaran {
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 Achievements
 
 <div align="center">
 
