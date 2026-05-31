@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vigneshwaran%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Graduate%20%7C%20Java%20%26%20SQL%20Developer%20%7C%20IoT%20%26%20Networks%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Vigneshwaran%20A&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=ECE%20Graduate%20%7C%20Java%20%26%20SQL%20Developer%20%7C%20IoT%20%26%20Networks%20Enthusiast&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
 
@@ -14,8 +14,8 @@
 public class Vigneshwaran {
 
     String name        = "Vigneshwaran A";
-    String location    = "Karur, Tamil Nadu, India 🇮🇳";
-    String degree      = "B.E. Electronics & Communication Engineering";
+    String location    = "Karur, Tamil Nadu, India";
+    String degree      = "B.E. Electronics and Communication Engineering";
     String college     = "M. Kumarasamy College of Engineering";
     double cgpa        = 7.86;
 
@@ -30,7 +30,7 @@ public class Vigneshwaran {
     };
 
     String funFact =
-        "My project helps Olive Ridley turtles hatch! 🐢";
+        "My project helps Olive Ridley turtles hatch!";
 
     String motto() {
         return "Build things that matter. Document everything. Never stop learning.";
@@ -72,10 +72,10 @@ public class Vigneshwaran {
 <div align="center">
 
 <a href="https://github.com/Vignesh-1804">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vignesh-1804&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vignesh-1804&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
 </a>
 <a href="https://github.com/Vignesh-1804">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-1804&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-1804&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
 </a>
 
 </div>
@@ -170,14 +170,14 @@ public class Vigneshwaran {
 
 | 🏆 | Achievement | Details |
 |---|---|---|
-| 🎖️ | **Mackathon Participant** | Participated & managed documentation at MKCE Hackathon |
+| 🎖️ | **Mackathon Participant** | Participated and managed documentation at MKCE Hackathon |
 | 📄 | **IEEE Publication — GLOF Early Warning System** | IEEE Conference, 2024 |
 | 📄 | **IEEE Publication — Turtle Monitoring System** | IEEE Conference, 2026 |
-| 🔒 | **Patent Application — Smart Care Mobility Chair** | College-level → International Patent |
+| 🔒 | **Patent Application — Smart Care Mobility Chair** | College-level to International Patent |
 | 🔒 | **Patent Application — Turtle Hatching System** | Applied for International Patent |
 | 📊 | **NPTEL — Industry 4.0** | Score: 82% |
-| 🌐 | **Cisco CCNA Certified** | Switching, Routing & Wireless Essentials |
-| 🌐 | **Cisco — Networking Devices & Initial Configuration** | Cisco Networking Academy |
+| 🌐 | **Cisco CCNA Certified** | Switching, Routing and Wireless Essentials |
+| 🌐 | **Cisco — Networking Devices and Initial Configuration** | Cisco Networking Academy |
 | 🤖 | **Automation Testing with Selenium Java** | GUVI Certified |
 | 🌐 | **Introduction to IoT** | IIT Kharagpur (NPTEL) |
 
@@ -191,7 +191,7 @@ public class Vigneshwaran {
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| 🎓 B.E. Electronics & Communication Engineering | M. Kumarasamy College of Engineering | 2022 – Present | CGPA: 7.86 / 10 |
+| 🎓 B.E. Electronics and Communication Engineering | M. Kumarasamy College of Engineering | 2022 – Present | CGPA: 7.86 / 10 |
 | 📘 HSC (Class XII) | Bharani Park Matric. Hr. Sec. School | 2022 | 88.8% |
 | 📗 SSLC (Class X) | St. Theresa's Matric. Hr. Sec. School | 2020 | 88.2% |
 
@@ -202,12 +202,12 @@ public class Vigneshwaran {
 ## 🚀 Currently Learning
 
 ```
-🧱 Java        → OOP Concepts, Collections, Exception Handling, JDBC
-🗄️ SQL         → Joins, Subqueries, Stored Procedures, Query Optimization
-🌐 Networking  → CCNA Advanced, Subnetting, Routing Protocols
-🤖 Testing     → Selenium WebDriver, TestNG, Automation Frameworks
-☁️ Cloud       → Cloud Fundamentals, AWS Basics
-🔗 APIs        → REST API Design, JSON, HTTP Methods
+Java        -->  OOP Concepts, Collections, Exception Handling, JDBC
+SQL         -->  Joins, Subqueries, Stored Procedures, Query Optimization
+Networking  -->  CCNA Advanced, Subnetting, Routing Protocols
+Testing     -->  Selenium WebDriver, TestNG, Automation Frameworks
+Cloud       -->  Cloud Fundamentals, AWS Basics
+APIs        -->  REST API Design, JSON, HTTP Methods
 ```
 
 ---
@@ -232,4 +232,4 @@ public class Vigneshwaran {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
